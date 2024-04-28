@@ -1,1 +1,2 @@
-# AER-152
+Acepta el reto #152 - Va de modas...
+Programa en Java que resuelve este problema utilizando el método de ordenación Mergesort con listas enlazadas.
